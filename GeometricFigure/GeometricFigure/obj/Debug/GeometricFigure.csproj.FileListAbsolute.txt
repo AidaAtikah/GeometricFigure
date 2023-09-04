@@ -1,0 +1,7 @@
+C:\CourseProject\GeometricFigure\GeometricFigure\bin\Debug\GeometricFigure.exe.config
+C:\CourseProject\GeometricFigure\GeometricFigure\bin\Debug\GeometricFigure.exe
+C:\CourseProject\GeometricFigure\GeometricFigure\bin\Debug\GeometricFigure.pdb
+C:\CourseProject\GeometricFigure\GeometricFigure\obj\Debug\GeometricFigure.csproj.AssemblyReference.cache
+C:\CourseProject\GeometricFigure\GeometricFigure\obj\Debug\GeometricFigure.csproj.CoreCompileInputs.cache
+C:\CourseProject\GeometricFigure\GeometricFigure\obj\Debug\GeometricFigure.exe
+C:\CourseProject\GeometricFigure\GeometricFigure\obj\Debug\GeometricFigure.pdb
