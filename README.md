@@ -5,7 +5,5 @@ There methods for each of the geometric figures which is Move and Rotate.
 In addition, the figure Aggregation are added. 
 
 # Output 
-<img width="364" alt="image" src="https://github.com/AidaAtikah/GeometricFigure/assets/142037347/6c3ede29-bfcc-440f-8782-24cbcbcbaf08">
-
-
+<img width="364" alt="Screenshot 2023-09-04 191733" src="https://github.com/AidaAtikah/GeometricFigure/assets/142037347/638c20fc-4e27-469f-b690-2a69e4120c72">
 
